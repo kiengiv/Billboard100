@@ -1,4 +1,4 @@
-# Created by Kieng Iv to extract weather data from http://www.wunderground.com
+# Created by Kieng Iv 
 
 # Importing the necessary modules
 from bs4 import BeautifulSoup
